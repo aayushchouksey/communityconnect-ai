@@ -1,0 +1,17 @@
+[
+  {
+    "profile": "Student",
+    "question": "scholarship",
+    "answer": "Government provides scholarships for students to support education."
+  },
+  {
+    "profile": "Farmer",
+    "question": "subsidy",
+    "answer": "Farmers receive subsidies for seeds and equipment."
+  },
+  {
+    "profile": "Job Seeker",
+    "question": "job",
+    "answer": "Government provides skill training and employment programs."
+  }
+]
