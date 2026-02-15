@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+gtts
+openai-whisper
+sentencepiece
